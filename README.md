@@ -1,4 +1,4 @@
-# 📅 Semana Codando no Condato Python 🐍 
+# 📅 Codando no Condato com Python 🐍 
 
 <img align="center" alt="Python" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" style="height:50px; width:auto" target="_blank">
 
